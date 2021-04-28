@@ -66,7 +66,7 @@ const Team = () => {
         <>
             <TemaContainer id='about'>
                 <TeamBG>
-                    <VdoBG src={TeamImg} type='jpg/png'/>
+                   <VdoBG autoPlay loop muted src={TeamVB} type='video/mp4'/>
                 </TeamBG>
                 
                 <TeamContent>
