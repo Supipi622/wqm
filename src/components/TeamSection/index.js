@@ -1,4 +1,5 @@
 import React from 'react';
+import TeamVB from '../../Videos/TeamVB.mp4';
 import TeamImg from '../../images/TeamBGImg.jpg';
 import './Slider.css'
 
